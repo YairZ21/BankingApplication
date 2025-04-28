@@ -98,6 +98,7 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para
 ## 📬 Contacto
 
 **Desarrollador:** Yair Zuñiga Rodriguez 
+
 **Correo:** yairandrezunig3@gmail.com
 
 
