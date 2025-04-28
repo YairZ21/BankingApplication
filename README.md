@@ -48,14 +48,8 @@
    ```
 3. Compila las clases Java:
    ```bash
-   javac Aplicacion Bancaria.java
+   Aplicacion Bancaria.java
    ```
-4. Ejecuta la aplicación:
-   ```bash
-   java AplicacionBancaria
-   ```
-
-¡Listo! Ahora podrás interactuar con tu aplicación bancaria desde la consola.
 
 ---
 
