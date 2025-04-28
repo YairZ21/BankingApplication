@@ -42,9 +42,9 @@
 ## 🔧 Instalación y Ejecución
 
 1. Clona el repositorio o descarga el código fuente.
-2. Navega al directorio raíz del proyecto:
+2. Navega al directorio Origen del proyecto:
    ```bash
-   cd BankingApplication
+   Origen
    ```
 3. Compila las clases Java:
    ```bash
